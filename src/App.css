@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+body {
+  background-color: indigo;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+
+h3 {
+  color: azure;
+}
+
+button {
+  background-color: rgb(179, 169, 169);
+  border-radius: 8px;
+  color: azure;
+}
+
+span {
+  color: azure;
+  margin-right: 10px;
+}
+
+p {
+  color: azure;
+}
+
+input {
+  margin-right: 10px;
+  border-radius: 8px;
+}
